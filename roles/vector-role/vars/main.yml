@@ -1,0 +1,4 @@
+---
+# vars file for vector-role
+vector_packages:
+  - vector
